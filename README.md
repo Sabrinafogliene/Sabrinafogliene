@@ -35,11 +35,11 @@ Atualmente sou a única responsável pelo setor de TI no **Grupo FV**, onde gere
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrinafogliene&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas de Sabrina" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinafogliene&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+### 📈 Estatísticas do GitHub
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabrinafogliene&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Sabrinafogliene)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinafogliene&layout=compact&theme=tokyonight)](https://github.com/Sabrinafogliene)
+
 
 ---
 
