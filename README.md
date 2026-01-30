@@ -1,27 +1,54 @@
-# Sabrinafogliene
+# Olá, eu sou a Sabrina Castilho! 👋
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-castilho/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrinafogliene/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sabrinafogliene)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sabrina.castilho4@gmail.com)
+### Desenvolvedora de Sistemas Jr | Bacharel em Publicidade | Estudante de ADS
 
+Atualmente sou a única responsável pelo setor de TI no **Grupo FV**, onde gerencio projetos de desenvolvimento web e mobile, automações e integrações de sistemas. Minha trajetória une a visão estratégica da comunicação com a precisão técnica da programação.
 
-## Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
+## 🚀 Sobre Mim
+- 💻 **Foco Atual:** Desenvolvimento Front-end com **React.js** e **React Native**.
+- 🎓 **Formação:** Graduada em Publicidade e Propaganda (2013) e cursando Análise e Desenvolvimento de Sistemas.
+- 💼 **Experiência:** Transição de carreira consolidada em 2025, passando de empreendedora no nicho infantil para desenvolvedora Jr.
+- 🛠️ **Desafio Diário:** Gerenciar o ciclo de vida completo das aplicações desenvolvidas na empresa.
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabrinafogliene&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sabrinafogliene&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sabrinafogliene&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Sabrinafogliene/dio-lab-open-source) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sabrinafogliene&repo=lab-natty-or-not&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Sabrinafogliene/lab-natty-or-not)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Sabrinafogliene&repo=prompts-for-podcast-generate-by-ia&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Sabrinafogliene/prompts-for-podcast-generate-by-ia)
+## 🛠️ Tecnologias e Ferramentas
+
+### Front-end & Mobile
+![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Back-end & Integrações
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+
+### Design & Ferramentas
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sabrinafogliene&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinafogliene&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔗 Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrina-castilho/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrinafogliene/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+---
+<p align="center">
+  <i>"Transformando ideias criativas em soluções de software robustas."</i>
+</p>
